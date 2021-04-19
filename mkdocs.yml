@@ -1,3 +1,9 @@
 site_name: InnovationLab.UK
 theme:
     name: material
+extra_css:
+    - css/style.css
+plugins:
+  - search
+  - macros:
+      include_dir: docs/include
