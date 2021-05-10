@@ -9,6 +9,8 @@ We are accelerating the innovation process by creating new tools and methods usi
 <img src="img/icl_logo.jpeg" width="250" alt="Imperial College London Logo" />
 <img src="img/ucl_logo.gif" width="250" alt="University College London Logo" />
 </center>
+
+> “If you look at history, innovation doesn’t come just from giving people incentives; it comes from creating environments where their ideas can connect.“ *~Steven Johnson*
 ## Projects
 
 * **Team Building**
