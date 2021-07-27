@@ -2,6 +2,8 @@
 
 * [Start with design thinking](https://dschool.stanford.edu/resources/get-started-with-design)
 * [Innovation Toolkit (itk)](https://itk.mitre.org/)
+* [Startup playbook](https://playbook.samaltman.com/)
+* [Startup growth playbook](https://www.hubspot.com/startups/the-startup-growth-playbook)
 
 ## Podcasts
 
